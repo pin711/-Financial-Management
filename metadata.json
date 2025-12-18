@@ -1,0 +1,5 @@
+{
+  "name": "Personalized Financial Management System",
+  "description": "A comprehensive financial tracker with bank account management, transaction categorization, and AI-driven financial insights using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
